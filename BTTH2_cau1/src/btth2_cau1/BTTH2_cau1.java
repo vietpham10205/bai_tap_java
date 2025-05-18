@@ -23,4 +23,4 @@ public class BTTH2_cau1 {
     }
     
 }
-  
+  /////// viet thu 1 cai
