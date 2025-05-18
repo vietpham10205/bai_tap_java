@@ -10,7 +10,7 @@ public class Bai1 {
     // Tạo đối tượng BufferedReader
 BufferedReader nhap = new BufferedReader(new InputStreamReader(System.in, StandardCharsets.UTF_8));
 String ten = "";
-System.out.print("Nhập tên: ");
+System.out.print("  Nhập tên: ");
     
 //Nhập từ bàn phím dùng BufferedReader
 try {

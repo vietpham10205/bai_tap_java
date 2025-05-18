@@ -11,11 +11,12 @@ package cau1;
 public class Cau1 {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here 
          System.out.print("Hello Java");
          
          Bai1.nhap();
          Bai1.nhap();
+         Bai1tiengviet.nhap();
     }
     
 }
